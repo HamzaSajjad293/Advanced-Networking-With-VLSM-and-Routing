@@ -58,9 +58,7 @@ A complete enterprise-level networking project designed by **Hamza Sajjad** usin
 
 **Hamza Sajjad**  
 Bachelor's in Artificial Intelligence  
-GitHub: [your GitHub username]  
 
----
 
 ## 📌 How to Run
 
